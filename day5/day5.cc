@@ -91,7 +91,7 @@ int main() {
 	container[8].push('D');
 	container[8].push('J');
 
-	ifstream file("inputs/input5");
+	ifstream file("input5");
 	string line;
 	while(getline(file,line)){
 		stringstream ss(line);

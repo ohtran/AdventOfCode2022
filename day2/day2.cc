@@ -73,7 +73,7 @@ char get_shape(char pl_1, char pl_2){
 }
 
 int main(){
-	std::ifstream file("inputs/input2");
+	std::ifstream file("input2");
 	std::string line;
 	int total = 0;
 

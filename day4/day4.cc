@@ -13,7 +13,7 @@ void get_num(std::string s, int &first, int &second){
 }
 
 int main(){
-	std::ifstream file("inputs/input4");
+	std::ifstream file("input4");
 	std::string line;
 	int contain = 0;
 	int overlap = 0;

@@ -12,7 +12,7 @@ int get_priority(char c){
 }
 
 int main(){
-	std::ifstream file("inputs/input3");
+	std::ifstream file("input3");
 	std::string line;
 	int sum = 0;
 	

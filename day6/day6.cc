@@ -27,7 +27,7 @@ bool is_unique(queue<char> q){
 }
 
 int main() {
-	ifstream file("inputs/input6");
+	ifstream file("input6");
 	char c;
 	int count = 0;
 	queue<char> queue;

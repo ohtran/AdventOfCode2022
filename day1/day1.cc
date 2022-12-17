@@ -5,7 +5,7 @@
 #include <algorithm>
 
 int main(){
-	std::ifstream file("inputs/input");
+	std::ifstream file("input");
 	std::string calories;	
 	std::vector<int> elf_calories;
 	int sum =0;
